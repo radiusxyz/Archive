@@ -7,7 +7,7 @@ ethereum_websocket_url = "wss://ethereum-holesky-rpc.publicnode.com"
 signing_key = ""
 # SSAL
 ssal_contract_address = "0x54B23E63935a09647148c864ecFE292517deb249"
-cluster_id = "0x38a941d2d4959baae54ba9c14502abe54ffd4ad0db290295f453ef9d7d5a3f2d"
+cluster_id = "0x817f4019248eafe996285039d46613595e9d19df437c29b185bcee09fe9ba204"
 seeder_rpc_url = "http://52.79.222.106:3000"
 # EigenLayer AVS
 delegation_manager_contract_address = "0xA44151489861Fe9e3055d95adC98FbD462B948e7"
